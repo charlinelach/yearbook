@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Digital Yearbook, 2020
+The purpose of this yearbook is to provide an employee directory in a digital manner. Users can view search upon, and sort through employees.
 
-## Available Scripts
+**Created On**: `2020 November 19`
+<br>
+Deployment: 
+<br>
+Repository: https://github.com/charlinelach/digitalYearbook
 
-In the project directory, you can run:
+## Table of Contents
+* [Usage](#usage)
+* [Installation](#installation)
+* [Credits & Thank You](#credits)
+* [Testing & Errors](#testing)
+* [License](#license)
 
-### `npm start`
+# Development
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Usage Instructions
+<!-- To utilize the application, the user would access the application via [React](https://tranquil-lake-26395.herokuapp.com/) link.
+<br>
+Ideally, the user would view burgers that are on the list but not yet eaten. With an Eaten Already button, that would mark the burgers as Devoured and move them to the other list. There is also a Delete button, which would remove the item from the table/list of burgers.
+<br>
+When adding another burger, the user would be able to choose the burger name and whether they have been eaten yet or not.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+![Screenshot](screenshot.png) -->
 
-### `npm test`
+## Installation
+N/A when on Heroku
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Credits
+Shout out to the wonderful instructor, TAs, and classmates!
 
-### `npm run build`
+## Testing
+**For local testing:**
+1. Install React Router, Axios, and Bootstrap: **_npm install axios react-router-dom bootstrap_**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# License
+MIT License <br>
+Copyright © 2020
