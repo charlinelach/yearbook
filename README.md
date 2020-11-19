@@ -34,8 +34,10 @@ N/A when on Heroku
 Shout out to the wonderful instructor, TAs, and classmates!
 
 ## Testing
-**For local testing:**
-1. Install React Router, Axios, and Bootstrap: **_npm install axios react-router-dom bootstrap_**
+For local testing:
+```
+npm start
+```
 
 # License
 MIT License <br>
