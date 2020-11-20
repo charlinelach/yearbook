@@ -7,7 +7,7 @@ The purpose of this yearbook is to provide an employee directory in a digital ma
 <br>
 Deployment: https://frozen-refuge-13660.herokuapp.com/
 <br>
-Repository: https://github.com/charlinelach/digitalYearbook
+Repository: https://github.com/charlinelach/yearbook
 
 ## Table of Contents
 * [Usage](#usage)
