@@ -1,5 +1,10 @@
+* {
+  text-align: middle;
+}
+
 .App {
   text-align: center;
+  background-image: url("feldgrau-lemon-cover.png");
 }
 
 .App-logo {
@@ -35,4 +40,25 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.card {
+  background-color: white;
+}
+
+.container {
+  background-color: white;
+}
+
+.jumbotron {
+  background-image: url("./jumboBack.jpg");
+  background-size: cover;
+}
+
+.search {
+  width: 50%;
+}
+
+.table, th {
+  vertical-align: middle;
 }

@@ -5,7 +5,7 @@ The purpose of this yearbook is to provide an employee directory in a digital ma
 
 **Created On**: `2020 November 19`
 <br>
-Deployment: 
+Deployment: https://frozen-refuge-13660.herokuapp.com/
 <br>
 Repository: https://github.com/charlinelach/digitalYearbook
 
@@ -19,26 +19,24 @@ Repository: https://github.com/charlinelach/digitalYearbook
 # Development
 
 ## Usage Instructions
-<!-- To utilize the application, the user would access the application via [React](https://tranquil-lake-26395.herokuapp.com/) link.
+To utilize the application, the user would access the application via [Heroku](https://frozen-refuge-13660.herokuapp.com/) link.
 <br>
-Ideally, the user would view burgers that are on the list but not yet eaten. With an Eaten Already button, that would mark the burgers as Devoured and move them to the other list. There is also a Delete button, which would remove the item from the table/list of burgers.
-<br>
-When adding another burger, the user would be able to choose the burger name and whether they have been eaten yet or not.
+The app will provide "random" employees with the API and allow the user to search/filter or sort the list.
 
-![Screenshot](screenshot.png) -->
+![GIF](yearbookGIF.gif)
 
 ## Installation
-N/A when on Heroku
+N/A
 
 ## Credits
-Shout out to the wonderful instructor, TAs, and classmates!
+Shout out to the wonderful instructor, TAs, and classmates (especially in office hours)!
 
 ## Testing
 For local testing:
 ```
 npm start
+localhost:3000
 ```
 
 # License
-MIT License <br>
-Copyright © 2020
+MIT License Copyright © 2020
